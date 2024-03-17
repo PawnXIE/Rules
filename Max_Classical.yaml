@@ -6,23 +6,24 @@
 # DOMAIN-SUFFIX: 8
 # USER-AGENT: 1
 # TOTAL: 11
-DOMAIN,api.apptentive.com
-DOMAIN,sdk.iad-01.braze.com
-DOMAIN,services.brightline.tv
-DOMAIN,wbd-api.arkoselabs.com
-DOMAIN,telegraph.prd.api.discomax.com,HBOUSA
-DOMAIN,wmff.warnermediacdn.com,HBOUSA
-DOMAIN-SUFFIX,api.discomax.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,media.h264.io
-DOMAIN-SUFFIX,cinemax.com,HBOUSA
-DOMAIN-SUFFIX,max.com,HBOUSA
-DOMAIN-SUFFIX,discomax.com,HBOUSA
-DOMAIN-SUFFIX,h264.io,HBOUSA
-DOMAIN-SUFFIX,hbomax.com,HBOUSA
-DOMAIN-SUFFIX,hbomaxcdn.com,HBOUSA
-DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,HBOUSA
-DOMAIN-SUFFIX,hbonow.com,HBOUSA
-DOMAIN-SUFFIX,maxgo.com,HBOUSA
+payload:
+  - DOMAIN,api.apptentive.com
+  - DOMAIN,sdk.iad-01.braze.com
+  - DOMAIN,services.brightline.tv
+  - DOMAIN,wbd-api.arkoselabs.com
+  - DOMAIN,telegraph.prd.api.discomax.com,HBOUSA
+  - DOMAIN,wmff.warnermediacdn.com,HBOUSA
+  - DOMAIN-SUFFIX,api.discomax.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,media.h264.io
+  - DOMAIN-SUFFIX,cinemax.com,HBOUSA
+  - DOMAIN-SUFFIX,max.com,HBOUSA
+  - DOMAIN-SUFFIX,discomax.com,HBOUSA
+  - DOMAIN-SUFFIX,h264.io,HBOUSA
+  - DOMAIN-SUFFIX,hbomax.com,HBOUSA
+  - DOMAIN-SUFFIX,hbomaxcdn.com,HBOUSA
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,HBOUSA
+  - DOMAIN-SUFFIX,hbonow.com,HBOUSA
+  - DOMAIN-SUFFIX,maxgo.com,HBOUSA
