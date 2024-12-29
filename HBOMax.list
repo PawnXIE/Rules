@@ -1,0 +1,29 @@
+# NAME: HBOUSA
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios
+# UPDATED: 2024-02-25 16:04:00
+# HOST: 2
+# HOST-SUFFIX: 8
+# USER-AGENT: 1
+# TOTAL: 11
+HOST,api.apptentive.com
+HOST,sdk.iad-01.braze.com
+HOST,services.brightline.tv
+HOST,wbd-api.arkoselabs.com
+HOST,telegraph.prd.api.discomax.com,HBOUSA
+HOST,wmff.warnermediacdn.com,HBOUSA
+HOST-SUFFIX,api.discomax.com
+HOST-SUFFIX,appsflyersdk.com
+HOST-SUFFIX,litix.io
+HOST-SUFFIX,max.com
+HOST-SUFFIX,media.h264.io
+HOST-SUFFIX,cinemax.com,HBOUSA
+HOST-SUFFIX,max.com,HBOUSA
+HOST-SUFFIX,discomax.com,HBOUSA
+HOST-SUFFIX,h264.io,HBOUSA
+HOST-SUFFIX,hbomax.com,HBOUSA
+HOST-SUFFIX,hbomaxcdn.com,HBOUSA
+HOST-SUFFIX,hbomaxdash.s.llnwi.net,HBOUSA
+HOST-SUFFIX,hbonow.com,HBOUSA
+HOST-SUFFIX,maxgo.com,HBOUSA
+USER-AGENT,HBOMAX*,HBOUSA
